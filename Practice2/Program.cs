@@ -56,7 +56,7 @@ namespace Practice2
                 }
                 else if (key.Key == ConsoleKey.F6)
                 {
-                    Console.WriteLine("Смена откавы вверх...");
+                    Console.WriteLine("Смена октавы вверх...");
                     Thread.Sleep(200);
                     Console.Clear();
                     Octave++;
